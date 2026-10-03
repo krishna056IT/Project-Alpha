@@ -77,26 +77,3 @@
         margin-top: 10px;
     }
 }
-/* Hidden by default */
-.navbar-collapse {
-    display: none;
-}
-
-.navbar-collapse.show {
-    display: block;
-}
-
-.dropdown-menu {
-    display: none;
-}
-
-.dropdown-menu.show {
-    display: block;
-}
-
-/* Desktop */
-@media (min-width: 992px) {
-    .navbar-collapse {
-        display: flex !important;
-    }
-}
