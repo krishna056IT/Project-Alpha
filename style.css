@@ -77,22 +77,3 @@
         margin-top: 10px;
     }
 }
-/* hero css */
-.hero-section {
-background: linear-gradient(135deg, #f8f9fa 0%, #e9f2ff 100%);
-}
-
-.hero-section h1 {
-line-height: 1.1;
-}
-
-.hero-section img {
-max-height: 500px;
-width: 100%;
-object-fit: cover;
-}
-
-.hero-section .btn {
-padding: 12px 24px;
-border-radius: 8px;
-}
